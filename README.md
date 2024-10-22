@@ -25,5 +25,6 @@ Samples of the model evaluated on several digit classification tasks (boxes indi
 
 ---
 
-[1] Mnih V., Heess N., Graves A., Kavukcuoglu K. 2014. Recurrent Models of Visual Attention. <https://arxiv.org/abs/1406.6247>
-[2] Ba J., Mnih V., Kavukcuoglu K. 2014. Multiple Object Recognition with Visual Attention. <https://arxiv.org/abs/1412.7755>
+[1] Mnih V., Heess N., Graves A., Kavukcuoglu K. 2014. Recurrent Models of Visual Attention. https://arxiv.org/abs/1406.6247
+
+[2] Ba J., Mnih V., Kavukcuoglu K. 2014. Multiple Object Recognition with Visual Attention. https://arxiv.org/abs/1412.7755
